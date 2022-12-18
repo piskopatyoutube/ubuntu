@@ -6,7 +6,7 @@ install1 () {
 
 directory=ubuntu-fs
 
-UBUNTU_VERSION=21.04
+UBUNTU_VERSION=22.10
 
 if [ -d "$directory" ];then
 
